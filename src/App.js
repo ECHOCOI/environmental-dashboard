@@ -1,5 +1,6 @@
+// src/App.js
 import React from "react";
-import EnvironmentalDashboard from "./EnvironmentalDashboard";
+import EnvironmentalDashboard from "./components/EnvironmentalDashboard"; // Ensure the path is correct
 import { CssBaseline } from "@mui/material";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
